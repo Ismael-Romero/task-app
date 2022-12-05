@@ -25,9 +25,13 @@ soource/
   <tr>
     <td> <img src="doc/images/home.jpg" height="400em" /> </td>
     <td> <img src="doc/images/Language.jpg" height="400em" /> </td>
-    <td> <img src="doc/images/MyTasks.jpg" height="400em" /> </td>
-    <td> <img src="doc/images/Notifications.jpg" height="400em" /> </td>
-    <td> <img src="doc/images/Details.jpg" height="400em" /> </td>
+  </tr>
+  <tr>
+      <td> <img src="doc/images/MyTasks.jpg" height="400em" /> </td>
+      <td> <img src="doc/images/Notifications.jpg" height="400em" /> </td>
+  </tr>
+  <tr>
+      <td> <img src="doc/images/Details.jpg" height="400em" /> </td>
   </tr>
 </table>
 
