@@ -32,6 +32,7 @@ soource/
   </tr>
   <tr>
       <td> <img src="doc/images/Details.jpg" height="400em" /> </td>
+      <td> <img src="doc/images/Add.jpg" height="400em" /> </td>
   </tr>
 </table>
 
